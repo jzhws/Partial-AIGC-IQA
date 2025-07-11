@@ -41,7 +41,8 @@ _[ACMMM2025] Official dataset for EQAIQA-15K dataset_
 - 🎯 Release the EPAIQA-15K dataset.
 
 ## Training Dataset
-The dataset is being compiled and will be released soon!
+- The EPAIQA-15K dataset: https://huggingface.co/datasets/qjyyyyy/EPAIQA-15K (qjyyyyy/EPAIQA-15K)
+- Partially publicly available human-rated data：https://github.com/jzhws/Partial-AIGC-IQA/blob/main/scored_img.json （scored_img.json）
 
 ## Citation
 
