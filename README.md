@@ -38,7 +38,8 @@ _[ACMMM2025] Official dataset for EQAIQA-15K dataset_
 <div align="left">
   
 ## 🔖 TODO：
-- 🎯 Release the EPAIQA-15K dataset.
+- 🎯[√] Release the EPAIQA-15K dataset.
+- 🎯[√] Release the human-rated data.
 
 ## Training Dataset
 - The EPAIQA-15K dataset: https://huggingface.co/datasets/qjyyyyy/EPAIQA-15K (qjyyyyy/EPAIQA-15K)
