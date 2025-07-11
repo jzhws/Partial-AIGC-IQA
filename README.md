@@ -4,7 +4,7 @@
  <div>
     <a href="https://github.com/jzhws/Partial-AIGC-IQA"><img src="https://img.shields.io/github/stars/jzhws/Partial-AIGC-IQA"/></a>
     <a href="https://arxiv.org/abs/2504.09291"><img src="https://img.shields.io/badge/Arxiv-2504.09291-blue"/></a>
-     <a href="https://huggingface.co/datasets/qjyyyyy/EPAIQA-15K"><img src="https://img.shields.io/badge/Data-Release-green"></a>
+     <a href="https://huggingface.co/datasets/EPAIQA-15K"><img src="https://img.shields.io/badge/Data-Release-green"></a>
    </div>
 
 <h1>Towards Explainable Partial-AIGC Image Quality Assessment</h1>
